@@ -7,9 +7,9 @@ from selenium.webdriver.support.select import Select
 import time
 
 # Config
-url_site = "https://www.atendimento.dropdesk.com.br"
-email_login = "matheus.solon@izzyway.com.br"
-senha_login = "matheusSC12"
+url_site = "url"
+email_login = "email"
+senha_login = "senha"
 analista_1 = "PEDRO HENRIQUE"
 
 # Inicializa o navegador
